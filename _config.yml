@@ -12,7 +12,7 @@ masthead_title: "Torin Donnelly" # overrides the website title displayed in the 
 copyright: # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
 # Theme settings (used by the existing CSS)
-minimal_mistakes_skin    : "plum" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "air"
+minimal_mistakes_skin    : "dark" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "air"
 favicon: "/assets/images/favicon.png" # Favicon path (update this file)
 favicon_version: 1 # Increment to force browsers to refresh the favicon
 
@@ -43,7 +43,7 @@ author:
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "ITS REAL"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
