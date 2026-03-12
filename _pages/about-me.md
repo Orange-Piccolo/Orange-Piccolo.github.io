@@ -7,6 +7,15 @@ Badda Bing Badda Boom
 {% include figure image_path="/assets/images/Acid_Spray_Asset_PNG.png" alt="Placeholder alt EXPLOSION" caption="Placeholder caption EXPLOSION" %}
 
 {% assign skills = include.skills | default: page.skills %}
+skills:
+- name: "Unity"
+  icon: "fab fa-fw fa-unity"
+  badges: ["C#", "Game Development"]
+  years: 1
+- name: "Game Design"
+- icon: "fas fa-fw fa-gamepad"
+- badges: ["Game Mechanics", "Levels", "UI"]
+- level_label: "Beginner"
 
 {% if skills %}
 <div class="skills {{ include.class }}">
