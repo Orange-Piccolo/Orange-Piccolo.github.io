@@ -32,7 +32,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
-    {% assign skills = include.skills | default: page.skills %}
+{% assign skills = include.skills | default: page.skills %}
 skills:
 - name: "Unity"
   icon: "fab fa-fw fa-unity"
