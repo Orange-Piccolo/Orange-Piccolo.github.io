@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "Aspiring Game Design and Development student."
+excerpt: "Aspiring Game Design and Development student"
 intro: 
   - excerpt: 'From here you can learn more about me:'
 feature_row:
