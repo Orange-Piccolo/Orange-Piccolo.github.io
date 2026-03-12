@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "Torin Donnelly"
 layout: splash
 permalink: /
 header:
@@ -12,9 +12,9 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Aspiring Game Design and Development student."
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'From here you can learn more about me:'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
