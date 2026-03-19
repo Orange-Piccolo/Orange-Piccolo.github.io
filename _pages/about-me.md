@@ -17,6 +17,8 @@ skills:
 
 I am an aspiring Game Design and Development student currently studying at Ulster University's Magee campus in Derry.
 
+{% include quote text="This was the most polished student game I have ever played in my life!" author="Lecturer Feedback" %}
+
 {% include skills skills=page.skills %}
 
 Badda Bing Badda Boom
