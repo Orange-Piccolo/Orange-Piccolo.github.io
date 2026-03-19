@@ -9,17 +9,10 @@ main:
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
   - title: "About Me"
     url: /about-me/
+  - title: "Contact Me"
+    url: /contact-me/
  
 
 # Sidebar menu for the Projects page
