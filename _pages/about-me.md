@@ -2,7 +2,6 @@
 title: "About Me"
 layout: splash
 permalink: /about-me/
-
 <div class="google-form {{ include.class }}">
   {% if include.title %}
     <h2 class="google-form__title">{{ include.title }}</h2>
