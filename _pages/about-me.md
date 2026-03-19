@@ -2,7 +2,6 @@
 title: "About Me"
 layout: splash
 permalink: /about-me/
-permalink
 ---
 Badda Bing Badda Boom
 
