@@ -18,6 +18,8 @@ main:
         url: /pages/single/
       - title: "Splash Layout"
         url: /pages/splash/
+  - title: "About Me"
+    url: /about-me/
   - title: "Contact Me"
     url: /contact-me/
  
