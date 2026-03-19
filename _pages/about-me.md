@@ -6,3 +6,28 @@ permalink: /about-me/
 Badda Bing Badda Boom
 
 <a href="https://www.pkmn.help/pokedex" target="_blank" rel="noopener noreferrer">Hyperlink example</a>.
+
+<div class="google-form {{ include.class }}">
+  {% if include.title %}
+    <h2 class="google-form__title">{{ include.title }}</h2>
+  {% endif %}
+  {% assign form_src = include.src %}
+  {% if form_src contains "forms.gle" and form_src contains "embedded=true" == false %}
+    {% if form_src contains "?" %}
+      {% assign form_src = form_src | append: "&embedded=true" %}
+    {% else %}
+      {% assign form_src = form_src | append: "?embedded=true" %}
+    {% endif %}
+  {% endif %}
+  <iframe
+    src="{{ form_src }}"
+    class="google-form__iframe"
+    width="{{ include.width | default: '100%' }}"
+    height="{{ include.height | default: '800' }}"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    loading="lazy"
+    title="{{ include.title | default: 'Google Form' }}"
+  >Loading…</iframe>
+</div>
