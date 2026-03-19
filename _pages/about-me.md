@@ -2,6 +2,7 @@
 title: "About Me"
 layout: splash
 permalink: /about-me/
+---
 <div class="google-form {{ include.class }}">
   {% if include.title %}
     <h2 class="google-form__title">{{ include.title }}</h2>
@@ -26,7 +27,7 @@ permalink: /about-me/
     title="{{ include.title | default: 'Google Form' }}"
   >Loading…</iframe>
 </div>
----
+
 Badda Bing Badda Boom
 
 <a href="https://www.pkmn.help/pokedex" target="_blank" rel="noopener noreferrer">Hyperlink example</a>.
