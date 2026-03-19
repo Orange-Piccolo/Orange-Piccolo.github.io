@@ -15,8 +15,10 @@ skills:
     level_label: "Beginner"
 ---
 
+I am an aspiring Game Design and Development student currently studying at Ulster University's Magee campus in Derry.
+
+{% include skills skills=page.skills %}
+
 Badda Bing Badda Boom
 
 <a href="https://www.pkmn.help/pokedex" target="_blank" rel="noopener noreferrer">Hyperlink example</a>.
-
-{% include skills skills=page.skills %}
