@@ -20,8 +20,6 @@ main:
         url: /pages/splash/
   - title: "About Me"
     url: /about-me/
-  - title: "Contact Me"
-    url: /contact-me/
  
 
 # Sidebar menu for the Projects page
