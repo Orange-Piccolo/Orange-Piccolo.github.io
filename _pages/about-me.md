@@ -31,3 +31,9 @@ Badda Bing Badda Boom
     title="{{ include.title | default: 'Google Form' }}"
   >Loading…</iframe>
 </div>
+
+{% include google-form
+  title="Contact Me"
+  src="https://forms.gle/XsbApFoRjn7r24jy6"
+  height="800"
+%}
