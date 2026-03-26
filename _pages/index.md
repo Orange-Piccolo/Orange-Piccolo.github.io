@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/Acid_Spray_Asset_PNG.png
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "[https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview](https://ulster-my.sharepoint.com/:w:/g/personal/donnelly-t19_ulster_ac_uk/IQBDs8WKC6RjQL3GitPgzSgtAV0RZRLaFav-eNmPzKm8s6Y?email=Donnelly-T19%40ulster.ac.uk&e=F0NGuz)"
       target: "_blank"
 
 
