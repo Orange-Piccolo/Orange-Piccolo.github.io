@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/Acid_Spray_Asset_PNG.png
 
 
-excerpt: "Aspiring Game Design and Development student"
+excerpt: "Here you can learn about the different game projects I have worked on during my time at Ulster University"
 intro: 
   - excerpt: 'From here you can learn more about me:'
 feature_row:
