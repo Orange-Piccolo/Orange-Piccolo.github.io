@@ -5,7 +5,7 @@ permalink: /projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Acid_Spray_Asset_PNG.png
+  overlay_image: /assets/BDATO_Combat.png
 
 
 excerpt: "Here, you can learn about the different game projects I have worked on during my time at Ulster University."
