@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Acid_Spray_Asset_PNG.png
+  overlay_image: /assets/BDATO_Title.png
   actions:
     - label: "Download CV"
       url: "https://smallpdf.com/file#s=db13bbd1-98b6-4484-9cd2-3748b1dc1378"
