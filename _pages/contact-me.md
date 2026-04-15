@@ -9,3 +9,4 @@ permalink: /contact-me/
   src="https://forms.gle/AsSh64V6xkZaaE6F8"
   height="800"
 %}
+<a href="https://www.linkedin.com/in/torin-donnelly-56a327403/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
