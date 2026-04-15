@@ -21,4 +21,5 @@ Based in Derry, I am a committed games design student inspired to make fun games
 **Feedback on one of my game projects, Bad Day at the Office:**
 {% include quote text="You have created a very well presented game with fun gameplay." author="Lecturer Feedback" %}
 
+**Listed below are a number of my skills related to games design and development:**
 {% include skills skills=page.skills %}
