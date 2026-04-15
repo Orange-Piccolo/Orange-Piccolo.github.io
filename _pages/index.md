@@ -24,10 +24,13 @@ feature_row:
     alt: "2D top-down monster battler"
     title: "2D Top-Down Monster RPG"
     excerpt: "A 2D top-down monster battler where you fight alongside allied Monsters"
+    url: "https://orange-piccolo.github.io/projects/"
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
   - image_path: /assets/images/LinkedInLogo.png
     alt: "LinkedIn logo"
     title: "Contact Information and Form"
-    excerpt: "<a href="https://www.linkedin.com/in/torin-donnelly-56a327403/" target="_blank" rel="noopener noreferrer">Click here to view my contact details and a contact form that I will receive directly.</a>"
+    excerpt: "See the **Contact Me** page to submit a contact form and view my LinkedIn account."
 ---
 
 {% include feature_row id="intro" type="center" %}
