@@ -19,7 +19,7 @@ feature_row:
     url: "https://pkmn.help/pokedex/"
     btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/MAR_3.png
+  - image_path: /assets/images/MAR_3.png
     alt: "Monsters and Rangers"
     title: "Monsters and Rangers"
     excerpt: "A 2D top-down monster battler RPG I worked with a team of 4 to develop"
