@@ -9,5 +9,5 @@ Fill out the attached Google form to contact me, or see my LinkedIn and GitHub a
   src="https://forms.gle/AsSh64V6xkZaaE6F8"
   height="800"
 %}
-<a href="https://www.linkedin.com/in/torin-donnelly-56a327403/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
-<a href="https://github.com/Orange-Piccolo/" target="_blank" rel="noopener noreferrer">GitHub</a>.
+<a href="https://www.linkedin.com/in/torin-donnelly-56a327403/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="https://github.com/Orange-Piccolo/" target="_blank" rel="noopener noreferrer">GitHub</a>
