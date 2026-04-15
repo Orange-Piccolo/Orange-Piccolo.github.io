@@ -54,13 +54,9 @@ footer: # Site footer
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
       target: "_blank"
-    - label: "Facebook" # Facebook link
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-      target: "_blank"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/Orange-Piccolo/"
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
