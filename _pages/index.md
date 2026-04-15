@@ -33,7 +33,7 @@ feature_row:
   - image_path: /assets/images/LinkedInLogo.png
     alt: "LinkedIn logo"
     title: "Contact Information and Form"
-    excerpt: "See the **Contact Me** page to submit a contact form and view my LinkedIn account."
+    excerpt: "See the **Contact Me** page to submit a contact form and view my LinkedIn and GitHub accounts."
     url: "https://orange-piccolo.github.io/contact-me/"
     btn_label: "Contact Me"
     btn_class: "btn--primary"
