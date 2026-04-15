@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/Acid_Spray_Asset_PNG.png
   actions:
     - label: "Download CV"
-      url: "file:///C:/Users/gwend/Downloads/Torin-Donnelly-B01032544-CRE136.pdf"
+      url: "https://smallpdf.com/file#s=db13bbd1-98b6-4484-9cd2-3748b1dc1378"
       target: "_blank"
 
 
