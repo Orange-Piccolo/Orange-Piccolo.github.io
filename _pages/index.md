@@ -24,7 +24,7 @@ feature_row:
     alt: "2D top-down monster battler"
     title: "2D Top-Down Monster RPG"
     excerpt: "A 2D top-down monster battler where you fight alongside allied Monsters"
-    url: "#test-link"
+    url: "https://orange-piccolo.github.io/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/3D_Project_3.png
