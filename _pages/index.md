@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/Acid_Spray_Asset_PNG.png
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "file:///C:/Users/gwend/Downloads/Torin-Donnelly-B01032544-CRE136.pdf"
       target: "_blank"
 
 
