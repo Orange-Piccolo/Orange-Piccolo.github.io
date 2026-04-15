@@ -27,10 +27,10 @@ feature_row:
     url: "https://orange-piccolo.github.io/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/3D_Project_3.png
-    alt: "3D ProBuilder World"
-    title: "3D ProBuilder World"
-    excerpt: "A 3D world made using ProBuilder to showcase my 3D world and level design"
+  - image_path: /assets/images/LinkedInLogo.png
+    alt: "LinkedIn logo"
+    title: "Contact Information and Form"
+    excerpt: "View contact details and contact form <a href="https://www.linkedin.com/in/torin-donnelly-56a327403/" target="_blank" rel="noopener noreferrer">here</a>"
 ---
 
 {% include feature_row id="intro" type="center" %}
