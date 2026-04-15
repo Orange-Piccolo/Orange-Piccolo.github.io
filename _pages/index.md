@@ -30,7 +30,7 @@ feature_row:
   - image_path: /assets/images/LinkedInLogo.png
     alt: "LinkedIn logo"
     title: "Contact Information and Form"
-    excerpt: "b"
+    excerpt: "<a href="https://www.linkedin.com/in/torin-donnelly-56a327403/" target="_blank" rel="noopener noreferrer">Click here to view my contact details and a contact form that I will receive directly.</a>"
 ---
 
 {% include feature_row id="intro" type="center" %}
