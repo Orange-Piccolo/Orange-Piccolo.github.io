@@ -10,7 +10,7 @@ header:
 
 excerpt: "Here, you can learn about the different game projects I have worked on during my time at Ulster University."
 intro: 
-  - excerpt: **'View the different game projects I developed and worked on:'**
+  - excerpt: 'View the different game projects I developed and worked on:'
 feature_row:
   - image_path: /assets/BDATO_Combat.png
     alt: "Bad Day at the Office"
