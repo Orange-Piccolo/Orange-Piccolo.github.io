@@ -17,20 +17,20 @@ intro:
   - excerpt: 'From here you can learn more about me and my projects:'
 feature_row:
   - image_path: /assets/BDATO_Combat.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "2D top-down survival shooter"
+    title: "2D Top-Down Survival Shooter"
+    excerpt: "A 2D top-down horde shooter with a chibi office setting"
   - image_path: /assets/MAR_2.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "2D top-down monster battler"
+    title: "2D Top-Down Monster RPG"
+    excerpt: "A 2D top-down monster battler where you fight alongside allied Monsters"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/3D_Project_3.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "3D ProBuilder World"
+    title: "3D ProBuilder World"
+    excerpt: "A 3D world made using ProBuilder to showcase my 3D world and level design"
 ---
 
 {% include feature_row id="intro" type="center" %}
