@@ -1,5 +1,5 @@
 ---
-title: "Torin Donnelly"
+title: "Portfolio Site"
 layout: splash
 permalink: /
 header:
