@@ -16,14 +16,17 @@ excerpt: "Aspiring Game Design and Development student"
 intro: 
   - excerpt: 'From here you can learn more about me and my projects:'
 feature_row:
-  - image_path: /assets/BDATO_Combat.png
-    alt: "2D top-down survival shooter"
-    title: "2D Top-Down Survival Shooter"
-    excerpt: "A 2D top-down horde shooter with a chibi office setting"
+  - image_path: /assets/images/Unity.png
+    alt: "Unity Logo demonstrating my proficiency"
+    title: "My Skills and Qualities"
+    excerpt: "See the **About Me** page to view my technical skills and proficiencies"
+    url: "https://orange-piccolo.github.io/about-me/"
+    btn_label: "About Me"
+    btn_class: "btn--primary"
   - image_path: /assets/MAR_2.png
-    alt: "2D top-down monster battler"
-    title: "2D Top-Down Monster RPG"
-    excerpt: "A 2D top-down monster battler where you fight alongside allied Monsters"
+    alt: "Game Project Screenshot"
+    title: "Games Design Projects"
+    excerpt: "See the **Projects** page to view my different game projects"
     url: "https://orange-piccolo.github.io/projects/"
     btn_label: "View Projects"
     btn_class: "btn--primary"
@@ -31,6 +34,9 @@ feature_row:
     alt: "LinkedIn logo"
     title: "Contact Information and Form"
     excerpt: "See the **Contact Me** page to submit a contact form and view my LinkedIn account."
+    url: "https://orange-piccolo.github.io/contact-me/"
+    btn_label: "Contact Me"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
