@@ -6,21 +6,19 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
-    text: "Made multiple games including one with a team of 4."
+    text: "Made multiple games including one being a collaboration with a team of 4."
     years: 2
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
-    text: "Designed mechanics, levels, and player feedback loops."
+    text: "Designed mechanics such as firing guns and randomly spawning enemies, levels and worlds, and player feedback loops."
     level_label: "Beginner"
 ---
 
-I am an aspiring Game Design and Development student currently studying at Ulster University's Magee campus in Derry.
+## I am an aspiring Game Design and Development student currently studying at Ulster University's Magee campus in Derry.
+Based in Derry, I am a committed games design student inspired to make fun games that I know many other like-minded players to myself would enjoy.
 
-{% include quote text="This was the most polished student game I have ever played in my life!" author="Lecturer Feedback" %}
+**Feedback on one of my game projects, Bad Day at the Office:**
+{% include quote text="You have created a very well presented game with fun gameplay." author="Lecturer Feedback" %}
 
 {% include skills skills=page.skills %}
-
-Badda Bing Badda Boom
-
-<a href="https://www.pkmn.help/pokedex" target="_blank" rel="noopener noreferrer">Hyperlink example</a>.
