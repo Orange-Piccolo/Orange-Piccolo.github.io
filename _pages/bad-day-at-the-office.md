@@ -1,7 +1,7 @@
 ---
 title: "Bad Day at the Office"
 layout: splash
-permalink: /projects/
+permalink: /bad-day-at-the-office/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
