@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-layout: splash
+layout: default
 permalink: /projects/
 header:
   overlay_color: "#000"
