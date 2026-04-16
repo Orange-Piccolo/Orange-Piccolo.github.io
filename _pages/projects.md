@@ -16,8 +16,8 @@ feature_row:
     alt: "Bad Day at the Office"
     title: "Bad Day at the Office"
     excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
-    url: "https://orange-piccolo.github.io/contact-me/"
-    btn_label: "See More"
+    url: "https://orange-piccolo.github.io/about-me/"
+    btn_label: "About Me"
     btn_class: "btn--primary"
   - image_path: /assets/images/MAR_3.png
     alt: "Monsters and Rangers"
