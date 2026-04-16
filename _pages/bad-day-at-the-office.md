@@ -40,7 +40,7 @@ gallery:
     alt: "Bad Day at the Office"
     title: "Bad Day at the Office"
     excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
-image_path: /assets/BDATO_Title.png
+image_path: /assets/images/MAR_3.png
 atl: "Bad Day at the Office"
 title: "Bad Day at the Office"
 excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
