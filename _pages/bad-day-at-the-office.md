@@ -9,10 +9,10 @@ header:
 
 excerpt: "Learn more about my top-down horde survival game, Bad day at the Office"
 intro: 
-  - excerpt: '**A survival shooter with a chibi office aesthetic**'
+  - excerpt: '**2D Top-Down Survival Game: Bad Day at the Office**'
 feature_row:
-  - image_path: /assets/BDATO_Combat.png
-    alt: "Bad Day at the Office"
+  - image_path: /assets/BDATO_Title.png
+    alt: "Bad Day at the Office title screen"
     title: "Bad Day at the Office"
     excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
     url: "https://pkmn.help/pokedex/"
