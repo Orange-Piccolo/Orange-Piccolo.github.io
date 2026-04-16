@@ -1,6 +1,6 @@
 ---
 title: "Bad Day at the Office"
-layout: single
+layout: splash
 permalink: /bad-day-at-the-office/
 header:
   overlay_color: "#000"
