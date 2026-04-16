@@ -63,6 +63,13 @@ gallery_title:
     title: "Final tweak"
     caption: "Final tweak"
 
+gallery_combat1:
+  # Recommended: width "240px" to "320px" keeps a neat grid
+  - url: /assets/BDATO_Combat.png
+    image_path: /assets/BDATO_Combat.png
+    alt: "Bad Day at the Office Combat"
+    title: "Bad Day at the Office Combat"
+    caption: "Bad Day at the Office Combat"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -78,3 +85,7 @@ gallery_title:
 {% include feature_row %}
 
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
+
+{% include gallery id="gallery_combat1" layout="third" thumb_height="180px" %}
+
+{% include gallery id="gallery_combat2" layout="third" thumb_height="180px" %}
