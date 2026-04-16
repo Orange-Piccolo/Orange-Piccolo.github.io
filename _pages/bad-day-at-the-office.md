@@ -7,28 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/BDATO_Combat.png
 
-excerpt: "Learn more about my top-down horde survival game, Bad day at the Office, made in Unity with the character sprites made using Aseprite, with skills I learned and developed in my CRE134 Game Graphics module"
-intro: 
-  - excerpt: '**2D Top-Down Survival Game: Bad Day at the Office**'
-feature_row:
-  - image_path: /assets/BDATO_Title.png
-    alt: "Bad Day at the Office title screen"
-    title: "Bad Day at the Office"
-    excerpt: "The main title screen for the game, made using the Unity canvas tool."
-
-intro2:
-feature_row:
-  - image_path: /assets/BDATO_Combat.png
-    alt: "Bad Day at the Office combat demonstration"
-    title: "Bad Day at the Office"
-    excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
-
-intro3:
-feature_row:
-  - image_path: /assets/BDATO_Combat_2.png
-    alt: "Bad Day at the Office combat demonstration"
-    title: "Bad Day at the Office"
-    excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
+# Learn more about my top-down horde survival game, Bad day at the Office, made in Unity with the character sprites made using Aseprite, with skills I learned and developed in my CRE134 Game Graphics module
 
 gallery_title:
   # Recommended: width "240px" to "320px" keeps a neat grid
