@@ -9,7 +9,7 @@ header:
   
 excerpt: "Learn about the game projects I have made"
 intro: 
-  - excerpt: 'Here you can view all the game projects I worked on and developed:'
+  - excerpt: '**Here you can view all the game projects I worked on and developed:**'
 feature_row:
   - image_path: /assets/BDATO_Combat_2.png
     alt: "Bad Day at the Office"
