@@ -33,10 +33,17 @@ feature_row:
     url: "https://pkmn.help/pokedex/"
     btn_label: "See More"
     btn_class: "btn--primary"
-image_path: /assets/BDATO_Combat.png
-alt: "Bad Day at the Office"
-title: "Bad Day at the Office"
-excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
+gallery_gameplay:
+  - excerpt: 'test'
+gallery:
+  - image_path: /assets/BDATO_Combat.png
+    alt: "Bad Day at the Office"
+    title: "Bad Day at the Office"
+    excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
+  - image_path: /assets/BDATO_Combat.png
+    alt: "Bad Day at the Office"
+    title: "Bad Day at the Office"
+    excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
 ---
 
 {% include feature_row id="intro" type="center" %}
