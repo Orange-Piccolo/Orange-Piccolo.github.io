@@ -7,15 +7,15 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/BDATO_Combat.png
   
-excerpt: "Learn more about the game projects I helped to develop"
+excerpt: "Learn about the game projects I have made"
 intro: 
-  - excerpt: 'Here, you can view all my different game projects'
+  - excerpt: 'Here you can view all the game projects I worked on and developed:'
 feature_row:
-  - image_path: /assets/BDATO_Combat.png
+  - image_path: /assets/BDATO_Combat_2.png
     alt: "Bad Day at the Office"
     title: "Bad Day at the Office"
     excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
-    url: "https://pkmn.help/pokedex/"
+    url: "https://orange-piccolo.github.io/bad-day-at-the-office/"
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/MAR_3.png
