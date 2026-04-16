@@ -16,7 +16,7 @@ feature_row:
     title: "Bad Day at the Office"
     excerpt: "The main title screen for the game, made using the Unity canvas tool."
 
-desc: 
+intro: 
   - excerpt: '**A survival shooter with a chibi office aesthetic**'
 feature_row:
   - image_path: /assets/BDATO_Combat.png
@@ -41,10 +41,6 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="desc" type="center" %}
 
 {% include feature_row %}
 
