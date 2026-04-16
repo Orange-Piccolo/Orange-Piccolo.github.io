@@ -16,7 +16,7 @@ feature_row:
     alt: "Bad Day at the Office"
     title: "Bad Day at the Office"
     excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
-    url: "https://pkmn.help/pokedex/"
+    url: "https://orange-piccolo.github.io/bad-day-at-the-office/"
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/MAR_3.png
