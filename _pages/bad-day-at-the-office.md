@@ -7,7 +7,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/BDATO_Combat.png
 
-excerpt: # Learn more about my top-down horde survival game, Bad day at the Office, made in Unity with the character sprites made using Aseprite, with skills I learned and developed in my CRE134 Game Graphics module
+excerpt: "Learn more about my top-down horde survival game, Bad day at the Office, made in Unity for my Fundamentals of Game Programming Module"
+intro:
+  - excerpt: '**Bad Day at the Office, a horde survival game where the player must face off against randomly spawning enemies**'
 
 gallery_title:
   # Recommended: width "240px" to "320px" keeps a neat grid
@@ -28,9 +30,7 @@ gallery_combat1:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="intro2" type="center" %}
-
-{% include feature_row id="intro3" type="center" %}
+{% include feature_row %}
 
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
 
