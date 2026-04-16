@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/3D_Project_4.png
     alt: "3D ProBuilder World"
     title: "3D ProBuilder World"
-    excerpt: "A 3D scene demonstrating my use of ProBuilder to design a 3D world that feels lived in and atmospheric"
+    excerpt: "A 3D scene demonstrating my use of ProBuilder to design a 3D world that feels lived in and atmosphericcccccccc"
     url: "https://pkmn.help/pokedex/"
     btn_label: "See More"
     btn_class: "btn--primary"
