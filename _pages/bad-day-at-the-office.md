@@ -16,16 +16,14 @@ feature_row:
     title: "Bad Day at the Office"
     excerpt: "The main title screen for the game, made using the Unity canvas tool."
 
-intro2: 
-  - excerpt: '**A survival shooter with a chibi office aesthetic**'
+intro2:
 feature_row:
   - image_path: /assets/BDATO_Combat.png
     alt: "Bad Day at the Office combat demonstration"
     title: "Bad Day at the Office"
     excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
 
-intro3: 
-  - excerpt: '**A survival shooter with a chibi office aesthetic**'
+intro3:
 feature_row:
   - image_path: /assets/BDATO_Combat_2.png
     alt: "Bad Day at the Office combat demonstration"
