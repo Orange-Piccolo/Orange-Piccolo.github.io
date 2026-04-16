@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/BDATO_Combat.png
 
-# Learn more about my top-down horde survival game, Bad day at the Office, made in Unity with the character sprites made using Aseprite, with skills I learned and developed in my CRE134 Game Graphics module
+excerpt: # Learn more about my top-down horde survival game, Bad day at the Office, made in Unity with the character sprites made using Aseprite, with skills I learned and developed in my CRE134 Game Graphics module
 
 gallery_title:
   # Recommended: width "240px" to "320px" keeps a neat grid
