@@ -32,12 +32,6 @@ gallery_combat1:
 
 {% include feature_row id="intro3" type="center" %}
 
-{% include feature_row %}
-
-{% include feature_row %}
-
-{% include feature_row %}
-
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
 
 {% include gallery id="gallery_combat1" layout="third" thumb_height="180px" %}
