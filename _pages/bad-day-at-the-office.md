@@ -59,8 +59,8 @@ gallery_combat1:
 
 {% include feature_row %}
 
-{% include gallery id="gallery_title" layout="first" thumb_height="180px" %}
+{% include gallery id="gallery_title" layout="second" thumb_height="180px" %}
 
-{% include gallery id="gallery_combat1" layout="first" thumb_height="180px" %}
+{% include gallery id="gallery_combat1" layout="second" thumb_height="180px" %}
 
-{% include gallery id="gallery_combat2" layout="first" thumb_height="180px" %}
+{% include gallery id="gallery_combat2" layout="second" thumb_height="180px" %}
