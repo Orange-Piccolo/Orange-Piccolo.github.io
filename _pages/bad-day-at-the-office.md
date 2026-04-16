@@ -20,12 +20,10 @@ desc:
   - excerpt: '**A survival shooter with a chibi office aesthetic**'
 feature_row:
   - image_path: /assets/BDATO_Combat.png
-    alt: "Bad Day at the Office"
+    alt: "Bad Day at the Office combat demonstration"
     title: "Bad Day at the Office"
     excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
-    url: "https://pkmn.help/pokedex/"
-    btn_label: "See More"
-    btn_class: "btn--primary"
+    
   - image_path: /assets/images/MAR_3.png
     alt: "Monsters and Rangers"
     title: "Monsters and Rangers"
