@@ -14,6 +14,16 @@ gallery_title:
     alt: "Bad Day at the Office Title"
     title: "Bad Day at the Office Title Screen"
     caption: "Bad Day at the Office Title Screen"
+  - url: /assets/BDATO_Combat.png
+    image_path: /assets/BDATO_Combat.png
+    alt: "Surviving against hordes of businessmen"
+    title: "Surviving against hordes of businessmen"
+    caption: "Surviving against hordes of businessmen"
+  - url: /assets/BDATO_Combat_2.png
+    image_path: /assets/BDATO_Combat_2.png
+    alt: "Fight Your Way to Survival"
+    title: "Fight Your Way to Survival"
+    caption: "Fight Your Way to Survival"
 
 gallery_combat1:
   # Recommended: width "240px" to "320px" keeps a neat grid
@@ -47,3 +57,5 @@ Defeat as many businessmen as you can to get a score so high it breaks through t
 {% include gallery id="gallery_combat2" layout="third" thumb_height="180px" %}
 
 Defeated enemies can drop Coffee Mugs, allowing Jenny to increase her health and fight harder to win!
+
+{% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
