@@ -19,11 +19,16 @@ gallery_MAR:
     alt: "Work with your pet Monster to take on the world"
     title: "Work with your pet Monster to take on the world"
     caption: "Work with your pet Monster to take on the world"
-  - url: /assets/BDATO_Combat_2.png
-    image_path: /assets/BDATO_Combat_2.png
-    alt: "Fight Your Way to Survival"
-    title: "Fight Your Way to Survival"
-    caption: "Fight Your Way to Survival"
+  - url: /assets/images/MAR_3.png
+    image_path: /assets/images/MAR_3.png
+    alt: "Fight with your own Monster to defeat enemy Monsters"
+    title: "Fight with your own Monster to defeat enemy Monsters"
+    caption: "Fight with your own Monster to defeat enemy Monsters"
+  - url: /assets/MAR_2.png
+    image_path: /assets/MAR_2.png
+    alt: "Take down powerful bosses"
+    title: "Take down powerful bosses"
+    caption: "Take down powerful bosses"
 ---
 # **BAD DAY AT THE OFFICE**
 ## A horde survival game where the player must face off against randomly spawning enemies
