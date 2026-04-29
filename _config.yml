@@ -30,19 +30,19 @@ author:
   links:
     - label: "Email" # Email link
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "gwendolyndonnelly66@outlook.com"
     - label: "Website" # Website link
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://orange-piccolo.github.io/"
     - label: "Twitter" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/PrincessPlmria"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Orange-Piccolo/"
+      url: "https://github.com/Orange-Piccolo/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -52,11 +52,11 @@ footer: # Site footer
   links: # Footer links
     - label: "Twitter" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/PrincessPlmria"
       target: "_blank"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Orange-Piccolo/"
+      url: "https://github.com/Orange-Piccolo/"
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
