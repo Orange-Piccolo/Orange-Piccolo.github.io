@@ -46,15 +46,15 @@ gallery_combat2:
 
 Take control of the player character, Jenny, as she must survive a very bad day at the office against a horde of grabby businessmen.
 
-{% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
+image_path: /assets/BDATO_Title.png
 
 Navigate the workplace in an effort to escape your inappropriately misogynistic colleagues.
 
-{% include gallery id="gallery_combat1" layout="third" thumb_height="180px" %}
+image_path: /assets/BDATO_Combat.png
 
 Defeat as many businessmen as you can to get a score so high it breaks through the glass ceiling!
 
-{% include gallery id="gallery_combat2" layout="third" thumb_height="180px" %}
+image_path: /assets/BDATO_Combat_2.png
 
 Defeated enemies can drop Coffee Mugs, allowing Jenny to increase her health and fight harder to win!
 
