@@ -46,7 +46,7 @@ gallery_combat2:
 
 Take control of the player character, Jenny, as she must survive a very bad day at the office against a horde of grabby businessmen.
 
-image_path: /assets/BDATO_Title.png
+{% include figure image_path="/assets/BDATO_Title.png" alt="Bad Day at the Office Title Screen" caption="Bad Day at the Office Title Screen" %}
 
 Navigate the workplace in an effort to escape your inappropriately misogynistic colleagues.
 
