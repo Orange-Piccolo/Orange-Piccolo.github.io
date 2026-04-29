@@ -30,21 +30,25 @@ gallery_MAR:
     title: "Take down powerful bosses"
     caption: "Take down powerful bosses"
 ---
-# **BAD DAY AT THE OFFICE**
-## A horde survival game where the player must face off against randomly spawning enemies
+# **Monsters and Rangers**
+## A monster battler RPG where players take command of their own Monster to battle and defeat enemy Monsters
 
-Take control of the player character, Jenny, as she must survive a very bad day at the office against a horde of grabby businessmen.
+Take control of a young ranger as he ventures to defeat powerful Monsters and help his local people with quests and tasks
 
-{% include figure image_path="/assets/BDATO_Title.png" alt="Bad Day at the Office Title Screen" caption="Bad Day at the Office Title Screen" %}
+{% include figure image_path="/assets/MAR_Title.png" alt="Monsters and Rangers Title Screen" caption="Monsters and Rangers Title Screen" %}
 
-Navigate the workplace in an effort to escape your inappropriately misogynistic colleagues.
+Work side by side with your own friendly Monster, who follows the player wherever they go.
 
-{% include figure image_path="/assets/BDATO_Combat.png" alt="Bad Day at the Office Screenshot" caption="Navigate through your workplace to avoid enemy businessmen" %}
+{% include figure image_path="/assets/MAR_1.png" alt="Work with your friendly pet Monster, Moustatic" caption="Work with your friendly pet Monster, Moustatic" %}
 
-Defeat as many businessmen as you can to get a score so high it breaks through the glass ceiling!
+Defeat powerful Monsters such as Garlick, Fieyery, Gingerred Fox, Markshark and Minerrage using your own Moustatic's power!
 
-{% include figure image_path="/assets/BDATO_Combat_2.png" alt="Bad Day at the Office Combat" caption="Take the enemies down to gain health pickups and increase your score" %}
+{% include figure image_path="/assets/images/MAR_3.png" alt="Combat in Monsters and Rangers" caption="Combat in Monsters and Rangers" %}
 
-Defeated enemies can drop Coffee Mugs, allowing Jenny to increase her health and fight harder to win!
+Take down formidable bosses, using either Moustatic's projectile attacks or your own close-range melee power!
+
+{% include figure image_path="/assets/MAR_2.png" alt="Take down formidable bosses" caption="Take down formidable bosses" %}
+
+Use your combined might to help the local people with quests and take down Monsters that trouble them!
 
 {% include gallery id="gallery_MAR" layout="third" thumb_height="180px" %}
