@@ -5,7 +5,7 @@ permalink: /monsters-and-rangers/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/BDATO_Combat.png
+  overlay_image: /assets/MAR_Title.png
 
 gallery_MAR:
   # Recommended: width "240px" to "320px" keeps a neat grid
