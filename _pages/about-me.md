@@ -18,6 +18,11 @@ skills:
     badges: ["Bugfixing", "Refining Mechanics"]
     text: "Able to fix bugs and fine-tune existing mechanics such as combat and collision/hitboxing issues."
     level_label: "Beginner"
+  - name: "World Building and Design"
+    icon: "fas fa-fw fa-gamepad"
+    badges: ["ProBuilder 3D", "2D Tilemap Design"]
+    text: "Created both a 3D world in Unity using ProBuilder and several 2D worlds using the Unity tilemap feature."
+    level_label: "Beginner"
 ---
 
 ## I am an aspiring Game Design and Development student currently studying at Ulster University's Magee campus in Derry.
