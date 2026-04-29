@@ -11,44 +11,41 @@ gallery_3D:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/3D_Project_1.png
     image_path: /assets/3D_Project_1.png
-    alt: "Monsters and Rangers Title Screen"
-    title: "Monsters and Rangers Title Screen"
-    caption: "Monsters and Rangers Title Screen"
+    alt: "A comfortable, homey living space with personality."
+    title: "A comfortable, homey living space with personality."
+    caption: "A comfortable, homey living space with personality."
   - url: /assets/3D_Project_2.png
     image_path: /assets/3D_Project_2.png
-    alt: "Work with your pet Monster to take on the world"
-    title: "Work with your pet Monster to take on the world"
-    caption: "Work with your pet Monster to take on the world"
+    alt: "An outside world with atmosphere and vibes."
+    title: "An outside world with atmosphere and vibes."
+    caption: "An outside world with atmosphere and vibes."
   - url: /assets/3D_Project_3.png
     image_path: /assets/3D_Project_3.png
-    alt: "Fight with your own Monster to defeat enemy Monsters"
-    title: "Fight with your own Monster to defeat enemy Monsters"
-    caption: "Fight with your own Monster to defeat enemy Monsters"
+    alt: "A variety of rooms made to feel lived in and used."
+    title: "A variety of rooms made to feel lived in and used."
+    caption: "A variety of rooms made to feel lived in and used."
   - url: /assets/3D_Project_4.png
     image_path: /assets/3D_Project_4.png
-    alt: "Take down powerful bosses"
-    title: "Take down powerful bosses"
-    caption: "Take down powerful bosses"
+    alt: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the playable character."
+    title: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the playable character."
+    caption: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the playable character."
 ---
 # **3D ProBuilder World**
-## A monster battler RPG where players take command of their own Monster to battle and defeat enemy Monsters
+## A modern interior design and external cityscape made using ProBuilder to demonstrate my skills.
 
-Take control of a young ranger as he ventures to defeat powerful Monsters and help his local people with quests and tasks
+A comfortable, homey living space with personality.
 
-{% include figure image_path="/assets/MAR_Title.png" alt="Monsters and Rangers Title Screen" caption="Monsters and Rangers Title Screen" %}
+{% include figure image_path="/assets/3D_Project_1.png" alt="A comfortable, homey living space with personality." caption=" " %}
 
-Work side by side with your own friendly Monster, who follows the player wherever they go.
+An outside world with atmosphere and vibes.
 
-{% include figure image_path="/assets/MAR_1.png" alt="Work with your friendly pet Monster, Moustatic" caption="Work with your friendly pet Monster, Moustatic" %}
+{% include figure image_path="/assets/3D_Project_2.png" alt="An outside world with atmosphere and vibes." caption="An outside world with atmosphere and vibes." %}
 
-Defeat powerful Monsters such as Garlick, Fieyery, Gingerred Fox, Markshark and Minerrage using your own Moustatic's power!
+A variety of rooms made to feel lived in and used.
+{% include figure image_path="/assets/3D_Project_3.png" alt="A variety of rooms made to feel lived in and used." caption="A variety of rooms made to feel lived in and used." %}
 
-{% include figure image_path="/assets/images/MAR_3.png" alt="Combat in Monsters and Rangers" caption="Combat in Monsters and Rangers" %}
+A modern interior design that matches the character and personality of the playable character.
 
-Take down formidable bosses, using either Moustatic's projectile attacks or your own close-range melee power!
-
-{% include figure image_path="/assets/MAR_2.png" alt="Take down formidable bosses" caption="Take down formidable bosses" %}
-
-Use your combined might to help the local people with quests and take down Monsters that trouble them!
+{% include figure image_path="/assets/3D_Project_4.png" alt="A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the playable character." %}
 
 {% include gallery id="gallery_3D" layout="third" thumb_height="180px" %}
