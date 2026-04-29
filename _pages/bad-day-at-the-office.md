@@ -36,6 +36,8 @@ gallery_combat2:
 
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
 
+Take control of the plkayer character, Jenny, as she must survive a very bad day at the office against a horde of misogynistic and grabby businessmen.
+
 {% include gallery id="gallery_combat1" layout="third" thumb_height="180px" %}
 
 {% include gallery id="gallery_combat2" layout="third" thumb_height="180px" %}
