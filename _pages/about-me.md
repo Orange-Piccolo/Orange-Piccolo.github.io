@@ -13,6 +13,11 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics such as firing guns and randomly spawning enemies, levels and worlds, and player feedback loops."
     level_label: "Beginner"
+  - name: "Bugfixing and Refinement"
+    icon: "fas fa-fw fa-gamepad"
+    badges: ["Bugfixing". "Refining Mechanics"]
+    text: "Able to fix bugs and fine-tune existing mechanics such as combat and collision/hitboxing issues."
+    level_label: "Beginner"
 ---
 
 ## I am an aspiring Game Design and Development student currently studying at Ulster University's Magee campus in Derry.
