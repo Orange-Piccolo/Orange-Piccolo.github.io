@@ -1,6 +1,6 @@
 ---
 title: "Bad Day at the Office"
-layout: splash
+layout: default
 permalink: /bad-day-at-the-office/
 header:
   overlay_color: "#000"
@@ -50,11 +50,11 @@ Take control of the player character, Jenny, as she must survive a very bad day 
 
 Navigate the workplace in an effort to escape your inappropriately misogynistic colleagues.
 
-image_path: /assets/BDATO_Combat.png
+{% include figure image_path="/assets/BDATO_Combat.png" alt="Bad Day at the Office Screenshot" caption="Navigate through your workplace to avoid enemy businessmen" %}
 
 Defeat as many businessmen as you can to get a score so high it breaks through the glass ceiling!
 
-image_path: /assets/BDATO_Combat_2.png
+{% include figure image_path="/assets/BDATO_Combat_2.png" alt="Bad Day at the Office Combat" caption="Take the enemies down to gain health pickups and increase your score" %}
 
 Defeated enemies can drop Coffee Mugs, allowing Jenny to increase her health and fight harder to win!
 
