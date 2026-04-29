@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: splash
+layout: single
 permalink: /about-me/
 skills:
   - name: "Unity"
