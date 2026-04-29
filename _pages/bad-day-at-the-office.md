@@ -16,24 +16,24 @@ gallery_title:
   - url: /assets/BDATO_Title.png
     image_path: /assets/BDATO_Title.png
     alt: "Bad Day at the Office Title"
-    title: "Bad Day at the Office Title"
-    caption: "Bad Day at the Office Title"
+    title: "Bad Day at the Office Title Screen"
+    caption: "Bad Day at the Office Title Screen"
 
 gallery_combat1:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/BDATO_Combat.png
     image_path: /assets/BDATO_Combat.png
-    alt: "Bad Day at the Office Combat"
-    title: "Bad Day at the Office Combat"
-    caption: "Bad Day at the Office Combat"
+    alt: "Surviving against hordes of businessmen"
+    title: "Surviving against hordes of businessmen"
+    caption: "Surviving against hordes of businessmen"
 
 gallery_combat2:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/BDATO_Combat.png
+  - url: /assets/BDATO_Combat_2.png
     image_path: /assets/BDATO_Combat_2.png
-    alt: "Bad Day at the Office Combat"
-    title: "Bad Day at the Office Combat"
-    caption: "Bad Day at the Office Combat"
+    alt: "Fight Your Way to Survival"
+    title: "Fight Your Way to Survival"
+    caption: "Fight Your Way to Survival"
 ---
 
 {% include feature_row id="intro" type="center" %}
