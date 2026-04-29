@@ -9,16 +9,16 @@ header:
 
 gallery_MAR:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/BDATO_Title.png
-    image_path: /assets/BDATO_Title.png
-    alt: "Bad Day at the Office Title"
-    title: "Bad Day at the Office Title Screen"
-    caption: "Bad Day at the Office Title Screen"
-  - url: /assets/BDATO_Combat.png
-    image_path: /assets/BDATO_Combat.png
-    alt: "Surviving against hordes of businessmen"
-    title: "Surviving against hordes of businessmen"
-    caption: "Surviving against hordes of businessmen"
+  - url: /assets/MAR_Title.png
+    image_path: /assets/MAR_Title.png
+    alt: "Monsters and Rangers Title Screen"
+    title: "Monsters and Rangers Title Screen"
+    caption: "Monsters and Rangers Title Screen"
+  - url: /assets/MAR_1.png
+    image_path: /assets/MAR_1.png
+    alt: "Work with your pet Monster to take on the world"
+    title: "Work with your pet Monster to take on the world"
+    caption: "Work with your pet Monster to take on the world"
   - url: /assets/BDATO_Combat_2.png
     image_path: /assets/BDATO_Combat_2.png
     alt: "Fight Your Way to Survival"
