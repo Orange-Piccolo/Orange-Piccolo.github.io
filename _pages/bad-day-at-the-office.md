@@ -7,10 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/BDATO_Combat.png
 
-excerpt: "Learn more about my top-down horde survival game, Bad day at the Office, made in Unity for my Fundamentals of Game Programming Module"
-intro:
-  - excerpt: '**Bad Day at the Office, a horde survival game where the player must face off against randomly spawning enemies**'
-
 gallery_title:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/BDATO_Title.png
@@ -36,11 +32,7 @@ gallery_combat2:
     caption: "Fight Your Way to Survival"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-# **'Bad Day at the Office, a horde survival game where the player must face off against randomly spawning enemies'**
+# **Bad Day at the Office, a horde survival game where the player must face off against randomly spawning enemies**
 
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
 
