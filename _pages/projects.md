@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: projects
-permalink: /projects/
+permalink: /single/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -9,7 +9,7 @@ header:
   
 excerpt: "Learn about the game projects I have made"
 intro: 
-  - excerpt: '**Here you can view all the game projects I worked on and developed:**'
+  - excerpt: **Here you can view all the game projects I worked on and developed:**'
 feature_row:
   - image_path: /assets/BDATO_Combat_2.png
     alt: "Bad Day at the Office"
