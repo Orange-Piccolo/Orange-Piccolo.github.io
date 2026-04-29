@@ -16,14 +16,14 @@ feature_row:
     title: "Bad Day at the Office"
     excerpt: "A top-down 2D horde shooter game with a chibi office aesthetic."
     url: "https://orange-piccolo.github.io/bad-day-at-the-office/"
-    btn_label: "See More"
+    btn_label: "See More of Bad Day at the Office"
     btn_class: "btn--primary"
   - image_path: /assets/images/MAR_3.png
     alt: "Monsters and Rangers"
     title: "Monsters and Rangers"
     excerpt: "A 2D top-down monster battler RPG which I worked in a team of 4 to develop"
     url: "https://https://google.com//"
-    btn_label: "See More"
+    btn_label: "See More of Monsters and Rangers"
     btn_class: "btn--primary"
   - image_path: /assets/3D_Project_4.png
     alt: "3D ProBuilder World"
