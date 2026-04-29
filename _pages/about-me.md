@@ -15,7 +15,7 @@ skills:
     level_label: "Beginner"
   - name: "Bugfixing and Refinement"
     icon: "fas fa-fw fa-gamepad"
-    badges: ["Bugfixing". "Refining Mechanics"]
+    badges: ["Bugfixing", "Refining Mechanics"]
     text: "Able to fix bugs and fine-tune existing mechanics such as combat and collision/hitboxing issues."
     level_label: "Beginner"
 ---
