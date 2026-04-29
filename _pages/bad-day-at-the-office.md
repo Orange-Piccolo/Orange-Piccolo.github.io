@@ -1,6 +1,6 @@
 ---
 title: "Bad Day at the Office"
-layout: default
+layout: single
 permalink: /bad-day-at-the-office/
 header:
   overlay_color: "#000"
@@ -44,18 +44,18 @@ gallery_combat2:
 # **BAD DAY AT THE OFFICE**
 ## A horde survival game where the player must face off against randomly spawning enemies
 
-Take control of the player character, Jenny, as she must survive a very bad day at the office against a horde of grabby businessmen.
+**Take control of the player character, Jenny, as she must survive a very bad day at the office against a horde of grabby businessmen.**
 
 {% include figure image_path="/assets/BDATO_Title.png" alt="Bad Day at the Office Title Screen" caption="Bad Day at the Office Title Screen" %}
 
-Navigate the workplace in an effort to escape your inappropriately misogynistic colleagues.
+**Navigate the workplace in an effort to escape your inappropriately misogynistic colleagues.**
 
 {% include figure image_path="/assets/BDATO_Combat.png" alt="Bad Day at the Office Screenshot" caption="Navigate through your workplace to avoid enemy businessmen" %}
 
-Defeat as many businessmen as you can to get a score so high it breaks through the glass ceiling!
+**Defeat as many businessmen as you can to get a score so high it breaks through the glass ceiling!**
 
 {% include figure image_path="/assets/BDATO_Combat_2.png" alt="Bad Day at the Office Combat" caption="Take the enemies down to gain health pickups and increase your score" %}
 
-Defeated enemies can drop Coffee Mugs, allowing Jenny to increase her health and fight harder to win!
+**Defeated enemies can drop Coffee Mugs, allowing Jenny to increase her health and fight harder to win!**
 
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
