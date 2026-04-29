@@ -19,6 +19,11 @@ gallery_3D:
     alt: "An outside world with atmosphere and vibes."
     title: "An outside world with atmosphere and vibes."
     caption: "An outside world with atmosphere and vibes."
+  - url: /assets/3D_Project_3.png
+    image_path: /assets/3D_Project_3.png
+    alt: "A variety of rooms made to feel lived in and used."
+    title: "A variety of rooms made to feel lived in and used."
+    caption: "A variety of rooms made to feel lived in and used."
   - url: /assets/3D_Project_4.png
     image_path: /assets/3D_Project_4.png
     alt: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the character."
