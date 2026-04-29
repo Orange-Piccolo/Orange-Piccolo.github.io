@@ -31,8 +31,8 @@ gallery_combat2:
     title: "Fight Your Way to Survival"
     caption: "Fight Your Way to Survival"
 ---
-
-# **Bad Day at the Office, a horde survival game where the player must face off against randomly spawning enemies**
+# **BAD DAY AT THE OFFICE**
+## A horde survival game where the player must face off against randomly spawning businessmen
 
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
 
