@@ -26,9 +26,9 @@ gallery_3D:
     caption: "A variety of rooms made to feel lived in and used."
   - url: /assets/3D_Project_4.png
     image_path: /assets/3D_Project_4.png
-    alt: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the playable character."
-    title: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the playable character."
-    caption: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the playable character."
+    alt: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the character."
+    title: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the character."
+    caption: ""A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the character."
 ---
 # **3D ProBuilder World**
 ## A modern interior design and external cityscape made using ProBuilder to demonstrate my skills.
@@ -46,6 +46,6 @@ A variety of rooms made to feel lived in and used.
 
 A modern interior design that matches the character and personality of the playable character.
 
-{% include figure image_path="/assets/3D_Project_4.png" alt="A modern interior design that matches the character and personality of the playable character." caption="A modern interior design that matches the character and personality of the playable character." %}
+{% include figure image_path="/assets/3D_Project_4.png" alt="A modern interior design that matches the character and personality of the character." caption="A modern interior design that matches the character and personality of the character." %}
 
 {% include gallery id="gallery_3D" layout="third" thumb_height="180px" %}
