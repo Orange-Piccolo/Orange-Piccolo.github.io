@@ -24,24 +24,8 @@ gallery_title:
     alt: "Fight Your Way to Survival"
     title: "Fight Your Way to Survival"
     caption: "Fight Your Way to Survival"
-
-gallery_combat1:
-  # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/BDATO_Combat.png
-    image_path: /assets/BDATO_Combat.png
-    alt: "Surviving against hordes of businessmen"
-    title: "Surviving against hordes of businessmen"
-    caption: "Surviving against hordes of businessmen"
-
-gallery_combat2:
-  # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/BDATO_Combat_2.png
-    image_path: /assets/BDATO_Combat_2.png
-    alt: "Fight Your Way to Survival"
-    title: "Fight Your Way to Survival"
-    caption: "Fight Your Way to Survival"
 ---
-# **BAD DAY AT THE OFFICE**
+# **Bad Day at the Office**
 ## A horde survival game where the player must face off against randomly spawning enemies
 
 Take control of the player character, Jenny, as she must survive a very bad day at the office against a horde of grabby businessmen.
