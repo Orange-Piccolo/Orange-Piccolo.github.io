@@ -22,7 +22,7 @@ feature_row:
     alt: "Monsters and Rangers"
     title: "Monsters and Rangers"
     excerpt: "A 2D top-down monster battler RPG which I worked in a team of 4 to develop"
-    url: "https://orange-piccolo.github.io/bad-day-at-the-office/"
+    url: "https://orange-piccolo.github.io/monsters-and-rangers/"
     btn_label: "See More of Monsters and Rangers"
     btn_class: "btn--primary"
   - image_path: /assets/3D_Project_4.png
