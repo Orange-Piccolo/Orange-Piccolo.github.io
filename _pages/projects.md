@@ -29,7 +29,7 @@ feature_row:
     alt: "3D ProBuilder World"
     title: "3D ProBuilder World"
     excerpt: "A 3D scene demonstrating my use of ProBuilder to design a 3D world that feels lived in and atmospheric"
-    url: "https://google.com/"
+    url: "https://orange-piccolo.github.io/3d-project/"
     btn_label: "See More"
     btn_class: "btn--primary"
 ---
