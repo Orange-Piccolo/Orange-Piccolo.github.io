@@ -1,6 +1,6 @@
 ---
 title: "Bad Day at the Office"
-layout: single
+layout: splash
 permalink: /bad-day-at-the-office/
 header:
   overlay_color: "#000"
@@ -36,7 +36,7 @@ gallery_combat2:
 
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
 
-Take control of the plkayer character, Jenny, as she must survive a very bad day at the office against a horde of misogynistic and grabby businessmen.
+Take control of the player character, Jenny, as she must survive a very bad day at the office against a horde of misogynistic and grabby businessmen.
 
 {% include gallery id="gallery_combat1" layout="third" thumb_height="180px" %}
 
