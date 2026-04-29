@@ -34,13 +34,13 @@ author:
     - label: "Website" # Website link
       icon: "fas fa-fw fa-link"
       url: "https://orange-piccolo.github.io/"
-    - label: "Twitter" # Twitter link
+    - label: "Twitter - QueenPlumeria" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/PrincessPlmria"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub" # GitHub link
+    - label: "GitHub - Orange-Piccolo" # GitHub link
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Orange-Piccolo/"
     - label: "Instagram"
@@ -50,11 +50,11 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
+    - label: "Twitter - QueenPlumeria" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/PrincessPlmria"
       target: "_blank"
-    - label: "GitHub" # GitHub link
+    - label: "GitHub - Orange-Piccolo" # GitHub link
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Orange-Piccolo/"
       target: "_blank"
