@@ -40,6 +40,8 @@ gallery_combat2:
 
 {% include feature_row %}
 
+# **Bad Day at the Office, a horde survival game where the player must face off against randomly spawning enemies**
+
 {% include gallery id="gallery_title" layout="third" thumb_height="180px" %}
 
 {% include gallery id="gallery_combat1" layout="third" thumb_height="180px" %}
