@@ -1,14 +1,7 @@
 ---
 title: "Projects"
-layout: splash
+layout: default
 permalink: /projects/
-sidebar:
-  title: "My Video Game Development Journey!"
-  children:
-    - title: "University Year 1 Projects!"
-      url: /Video-Games/Uni-Year-1/
-    - title: "Ode To Silvervale"
-      url: /Video-Games/Ode-To-Silvervale/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -16,7 +9,7 @@ header:
   
 excerpt: "Learn about the game projects I have made"
 intro: 
-  - excerpt: '**Here you can view all the game projects I worked on and developed:**'
+  - excerpt: '# **Here you can view all the game projects I worked on and developed:**'
 feature_row:
   - image_path: /assets/BDATO_Combat_2.png
     alt: "Bad Day at the Office"
