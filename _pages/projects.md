@@ -1,7 +1,14 @@
 ---
 title: "Projects"
-layout: default
+layout: splash
 permalink: /projects/
+sidebar:
+  title: "My Video Game Development Journey!"
+  children:
+    - title: "University Year 1 Projects!"
+      url: /Video-Games/Uni-Year-1/
+    - title: "Ode To Silvervale"
+      url: /Video-Games/Ode-To-Silvervale/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
