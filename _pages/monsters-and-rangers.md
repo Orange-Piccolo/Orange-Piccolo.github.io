@@ -51,4 +51,7 @@ Take down formidable bosses, using either Moustatic's projectile attacks or your
 
 Use your combined might to help the local people with quests and take down Monsters that trouble them!
 
+Watch the official trailer for Monsters and Rangers below!
+{% include video id="mxyHRmJ05bI" provider="youtube" %}
+
 {% include gallery id="gallery_MAR" layout="third" thumb_height="180px" %}
