@@ -6,6 +6,15 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/BDATO_Combat.png
+sidebar:
+  title: "My Game Projects"
+  children:
+    - title: "Bad Day at the Office"
+      url: /projects/bad-day-at-the-office/
+    - title: "Monsters and Rangers"
+      url: /projects/monsters-and-rangers/
+    - title: "3D ProBuilder World"
+      url: /projects/3d-project/
   
 excerpt: "Learn about the game projects I have made"
 intro: 
